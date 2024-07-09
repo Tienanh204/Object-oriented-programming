@@ -1,0 +1,5 @@
+Idea: SuperTech, DevMonths=6
+Mvp: FutureCar, RunMonths=6, Marketing=3
+Idea: VirtualHouse, DevMonths=7
+Idea: NightVision, DevMonths=4
+Mvp: SmartKey, RunMonths=4, Marketing=5

@@ -1,0 +1,5 @@
+Food ID=A724, Area=78, ColdStorage=3000000
+Clothes ID=B419, Area=33
+Jewelry ID=C682, Area=55, SecurityFee=7000000
+Clothes ID=B331, Area=38
+Food ID=A903, Area=60, ColdStorage=5000000

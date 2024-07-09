@@ -1,0 +1,15 @@
+0000000000001,Introduction to Artificial Intelligence,Alex Johnson,English,2024,49.99,54,30/11/2023-20:15:30
+0000000000002,Algorithms,Jane Smith,English,2022,39.99,50,15/03/2023-10:30:00
+0000000000003,Machine Learning Basics,David Johnson,English,2024,49.99,22,02/08/1975-14:45:20
+0000000000004,Programming in C++,Emily Brown,English,2021,34.99,120,10/12/2022-09:20:10
+0000000000005,Web Development with HTML & CSS,Michael Clark,English,2023,24.99,70,07/05/2024-16:55:40
+0000000000006,Java Essentials,Sarah Williams,English,2022,49.99,90,18/10/1990-11:11:11
+0000000000007,Python Data Analysis,Chris Lee,English,2023,59.99,60,25/09/2004-08:00:00
+0000000000008,Python Programming,John Doe,English,2023,29.99,10,21/06/2004-17:5:30
+0000000000009,Data Structures and Algorithms in Java,Jessica Taylor,English,2022,49.99,23,12/04/2023-13:25:00
+0000000000010,Network Security Fundamentals,Kevin Miller,English,2021,54.99,40,05/08/2022-07:40:15
+
+
+
+
+

@@ -1,0 +1,8 @@
+Employee: Name=Do Minh Long, Email=dmlong@gmail.com, StartDate=05/07/2023
+=> Course: Name=Self development, Cost=$60.69
+
+Employee: Name=Tran Bao Tuan, Email=tbtuan@gmail.com, StartDate=12/06/2022
+=> Course: Name=Financial freedom, Cost=$55.17
+
+Employee: Name=Cao Hoang Thien, Email=chthien@gmail.com, StartDate=12/06/2021
+=> Course: Name=Awaken your power, Cost=$58.29
